@@ -34,7 +34,6 @@ Welcome to my GitHub! I am passionate about building robust data pipelines and s
 
 ### 🤝 **Let’s Connect!**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sharmila-sherin)  
-- 📧 [Email Me](sharmilasherinpattu@gmail.com)  
 
 ---
 
