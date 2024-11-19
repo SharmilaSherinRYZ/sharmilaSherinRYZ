@@ -10,7 +10,7 @@ Welcome to my GitHub! I am passionate about building robust data pipelines and s
 
 ### 🛠️ **Technical Skills**  
 - **Programming**: Python, SQL  
-- **Big Data**: Hadoop (HDFS, MapReduce), Spark, Hive, Sqoop, **HBase**  
+- **Big Data**: Hadoop (HDFS, MapReduce), Spark, Hive, Sqoop, HBase  
 - **Stream Processing**: Apache Kafka, Spark Structured Streaming  
 - **Data Warehousing**: Amazon Redshift  
 - **Cloud Computing**: AWS (EMR, S3, Lambda, Glue, RDS, Athena)  
