@@ -18,11 +18,13 @@ Welcome to my GitHub! I am passionate about building robust data pipelines and s
 - **Data Analytics**: EDA, Regression Models  
 - **Visualization**: Matplotlib, Seaborn  
 - **Workflow Orchestration**: Apache Airflow
+- **Containerization & Orchestration**: Docker, Docker Compose
 
 ### 🎓 **What I’m Learning**  
 - **Linux** command-line operations  
-- **Snowflake** for data warehousing  
-- **Docker** for containerized applications
+- **Snowflake** for data warehousing
+- **Microsoft Azure** services like Data Factory, Synapse Analytics, Data Lake Storage, Databricks, and Blob Storage
+
 
 ### 🤝 **Let’s Connect!**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sharmila-sherin)  
